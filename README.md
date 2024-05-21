@@ -11,6 +11,10 @@ This game can be played in two modes: **Player vs Player** and **Player vs Compu
 - **Automatic Restart:** Option to restart the game after a win or a tie.
 - **Randomized Computer Moves:** The computer opponent makes random valid moves.
 
+## Screenshots
+
+![Screenshot 1](/images/ticplyr.png) ![Screenshot 2](/images/ticcomp.png)
+
 ## Prerequisites
 
 - Python 3.x
@@ -40,7 +44,7 @@ No installation is required. Simply download the script and run it using Python.
 
 ### Player vs Computer Mode
 
-1. Click the "Switch Mode" button to enable Player vs Computer mode.
+1. Click the **"Switch Mode"** button to enable Player vs Computer mode.
 2. Player 1 ('X') makes the first move.
 3. The computer ('O') will make random valid moves after Player 1's turn.
 4. The game follows the same winning and tie conditions as the Player vs Player mode.
